@@ -3,7 +3,6 @@
 <br />
 
 ## 🛠 개발 스택
-***
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -15,10 +14,16 @@
 <br />
 
 ## 🎨 디자인 스택
-***
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br />
+
+## ☎ 프로필 정보
+![Notion](https://interesting-amber-111.notion.site/119861e22f2f806d9b27f3ea117cf626> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://interesting-amber-111.notion.site/119861e22f2f806d9b27f3ea117cf626)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leeyeonjoo92@gmail.com)
+
 
 <!--
 **leeyeonjoo92/leeyeonjoo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
