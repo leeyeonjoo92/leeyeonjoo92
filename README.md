@@ -29,6 +29,7 @@
 ## ☎ 프로필 정보
 <div style="text-align: left;">
   <a href=https://interesting-amber-111.notion.site/119861e22f2f806d9b27f3ea117cf626> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://interesting-amber-111.notion.site/119861e22f2f806d9b27f3ea117cf626"> </a>
+  <a href=https://velog.io/@leeyeonjoo97/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@leeyeonjoo97/posts"> </a>
   <a href=mailto:leeyeonjoo92@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leeyeonjoo92@gmail.com"> </a>
 </div>
 
